@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Barbearia Alura é um site intuitivo sobre uma barbearia, com produtos e área de contato para os clientes, também possui a localização para o cliente pode ir até ela e logo após seus benefícios também, do que mostra um diferencial dela para as outras barbearias.
 
-- [Acesse o projeto finalizado, online](https://pablodpaula1.github.io/BarbeariaAlura/)
+- [Acesse o projeto finalizado, online](https://pablonicolino.github.io/BarbeariaAlura/)
 
 ## :memo: Licença
 
